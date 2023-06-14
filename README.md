@@ -1,4 +1,1 @@
-# Arduino Tutorial Projects 
-
-1.Blinking LED    
-2.LED fade in and out
+Microcontroller Projects- is a repository which is mainly related to different projects and programming with microcontrollers
